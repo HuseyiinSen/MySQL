@@ -64,6 +64,7 @@ insert into Anadolu_lisesi values('','Mehmet Harun','Istanbul',3.8);
 insert into Anadolu_lisesi values(null,'Mehmet Harun','Istanbul',3.8);
 insert into Anadolu_lisesi values(null,'','Istanbul',3.8);
 insert into Anadolu_lisesi (isim,adres)values('Berrin','Ankara');
+select * from Anadolu_lisesi;
 
 
 
